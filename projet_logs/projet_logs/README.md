@@ -1,7 +1,7 @@
 # Moteur d'analyse de flux de logs sécurisé
 
 Projet final Python - ING3
-Trinôme : *Nom Prénom 1*, *Nom Prénom 2*, *Nom Prénom 3*
+Auteur : EZ-ZARBOUHI Anass
 
 Application en ligne de commande qui lit de gros fichiers de logs système/réseau **sans les charger en mémoire**, les nettoie, les analyse et lève des alertes de sécurité (IP blacklistées, force brute, injections, connexions hors horaires...).
 
